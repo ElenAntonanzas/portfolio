@@ -1,0 +1,23 @@
+<header>
+<h1>Hola!</h1>
+<p>Me llamo Elena Antoñanzas Moreno y tengo 26 años.</p>
+<p>Estudié el grado en diseño de moda en la Escuela Superior de diseño de La Rioja y actualmente me encuentro cursando un máster en el IED Madrid en diseño editorial. </p>
+</header>
+
+<main>
+<h3>Skills</h3>
+<p> Moda </p>
+<img src = "1.jpg" > </img>
+<img src = "2.jpg" > </img>
+
+<p> Editorial </p>
+
+
+<footer>
+<h3> Redes </h3>
+<ol>
+<li> <a href = "https://www.instagram.com/ellenstonem/?hl=en" > Instagram </a> </li>
+<li> <a href = "https://twitter.com/ellenstonem" > Twitter </a> </li>
+</ol>
+<img src = "gatito.png" > </img>
+</footer>
